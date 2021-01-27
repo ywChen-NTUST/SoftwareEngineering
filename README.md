@@ -1,5 +1,5 @@
-# SoftwareEngineering
-109 Software Engineering
+# VRRA - Virtual Room Reservation Assistant
+109 Software Engineering Group 26
 
 Software Requirement Specification document(SRS): ./RoomReservationSRS.pdf
 
